@@ -1,0 +1,16 @@
+[
+{
+  "modid": "jtcoremod",
+  "name": "§2jtrent238's Core Mod",
+  "description": "§2Mod with some custom features in modpacks that were made by jtrent238",
+  "version": "§b 1.0.0.2",
+  "mcversion": "§2 1.7.10",
+  "url": "§2https://youtube.com/thejtrent238",
+  "updateUrl": "",
+  "authorList": ["jtrent238"],
+  "credits": "§2jtrent238",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
