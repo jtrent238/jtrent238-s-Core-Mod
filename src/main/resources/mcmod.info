@@ -1,9 +1,9 @@
 [
 {
-  "modid": "jtrent238core",
+  "modid": "jtcoremod",
   "name": "§2jtrent238's Core Mod",
-  "description": "§2Coremod for other mods made by jtrent238, and some special features for modpacks.",
-  "version": "§b 1.0.0.3",
+  "description": "§2Mod with some custom features in modpacks that were made by jtrent238",
+  "version": "§b 1.0.0.2",
   "mcversion": "§2 1.7.10",
   "url": "§2https://youtube.com/thejtrent238",
   "updateUrl": "",
