@@ -1,14 +1,14 @@
 [
 {
-  "modid": "jtcoremod",
-  "name": "§2jtrent238's Core Mod",
-  "description": "§2Mod with some custom features in modpacks that were made by jtrent238",
-  "version": "§b 1.0.0.2",
-  "mcversion": "§2 1.7.10",
-  "url": "§2https://youtube.com/thejtrent238",
+  "modid": "examplemod",
+  "name": "Example Mod",
+  "description": "Example placeholder mod.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
   "updateUrl": "",
-  "authorList": ["jtrent238"],
-  "credits": "§2jtrent238",
+  "authorList": ["ExampleDude"],
+  "credits": "The Forge and FML guys, for making this example",
   "logoFile": "",
   "screenshots": [],
   "dependencies": []
